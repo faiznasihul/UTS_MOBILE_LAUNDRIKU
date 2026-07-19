@@ -62,7 +62,6 @@ Laundriku
 
 ## 📸 Tampilan Aplikasi
 
-> Tambahkan screenshot aplikasi pada folder **images** kemudian tampilkan seperti berikut.
 
 ```markdown
 ### Halaman Login
@@ -140,8 +139,6 @@ Proyek ini dibuat untuk memenuhi tugas **Ujian Tengah Semester (UTS) Pemrograman
 
 ## 👨‍🏫 Dosen Pengampu
     
-Isi Nama Dosen
-
 Ghufron Zaida Muflih,M.Kom.
 
 ## ⭐ Repository
